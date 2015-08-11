@@ -1,18 +1,29 @@
-<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1438653996019">
+<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1439303665445">
   <folder name="css">
     <file name="site_global.css" crc="426517801"/>
     <file name="index.css" crc="4136943797" ref="index"/>
     <file name="character-select.css" crc="4006983330" ref="character-select"/>
-    <file name="portfolio.css" crc="4198293209" ref="portfolio"/>
+    <file name="about-me.css" crc="113267630" ref="about-me"/>
+    <file name="iefonts_about-me.css" crc="4151375563" ref="about-me"/>
+    <file name="art-portfolio.css" crc="4184399122" ref="art-portfolio"/>
+    <file name="iefonts_art-portfolio.css" crc="4119056697" ref="art-portfolio"/>
+    <file name="resume.css" crc="3973941912" ref="resume"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4021225061" ref="index:character-select:portfolio"/>
-    <file name="museutils.js" crc="4136605575" ref="index:character-select:portfolio"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="242197875" ref="index:character-select:portfolio"/>
-    <file name="jquery.watch.js" crc="172956391" ref="index:character-select:portfolio"/>
+    <file name="jquery-1.8.3.min.js" crc="4021225061" ref="index:character-select:about-me:art-portfolio:resume"/>
+    <file name="museutils.js" crc="4136605575" ref="index:character-select:about-me:art-portfolio:resume"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="242197875" ref="index:character-select:about-me:art-portfolio:resume"/>
+    <file name="jquery.watch.js" crc="172956391" ref="index:character-select:about-me:art-portfolio:resume"/>
+    <file name="pie.js" crc="3827607177" ref="about-me:art-portfolio:resume"/>
+    <file name="jquery.musemenu.js" crc="4009181048" ref="about-me:art-portfolio:resume"/>
+    <file name="html5shiv.js" crc="4241844378" ref="about-me:art-portfolio:resume"/>
+    <file name="webpro.js" crc="420478120" ref="art-portfolio"/>
+    <file name="musewpslideshow.js" crc="480958572" ref="art-portfolio"/>
+    <file name="jquery.museoverlay.js" crc="184401257" ref="art-portfolio"/>
+    <file name="touchswipe.js" crc="60020316" ref="art-portfolio"/>
   </folder>
   <folder name="images">
-    <file name="xchy58v.jpg" crc="54085765" ref="index:character-select:portfolio"/>
+    <file name="xchy58v.jpg" crc="54085765" ref="index:character-select"/>
     <file name="retro title.png" crc="163704108" ref="index"/>
     <file name="retro.gif" crc="23731596" ref="index"/>
     <file name="u129-4.png" crc="38901599" ref="character-select"/>
@@ -22,16 +33,37 @@
     <file name="random.png" crc="270365246" ref="character-select"/>
     <file name="u141-5.png" crc="13875479" ref="character-select"/>
     <file name="u143-4.png" crc="4236097152" ref="character-select"/>
-    <file name="icon.png" crc="103220238" ref="portfolio"/>
-    <file name="u183-18.png" crc="77769293" ref="portfolio"/>
-    <file name="ww.png" crc="4235133043" ref="portfolio"/>
-    <file name="2000px-imgur_logosvg.png" crc="3765157970" ref="portfolio"/>
-    <file name="insta.png" crc="394356939" ref="portfolio"/>
-    <file name="git.png" crc="4226539106" ref="portfolio"/>
-    <file name="twitter.png" crc="44195002" ref="portfolio"/>
-    <file name="u225-4.png" crc="4084865429" ref="portfolio"/>
+    <file name="icon.png" crc="172680054" ref="about-me:art-portfolio:resume"/>
+    <file name="2000px-imgur_logosvg.png" crc="3765157970" ref="about-me"/>
+    <file name="insta.png" crc="394356939" ref="about-me"/>
+    <file name="git.png" crc="4226539106" ref="about-me"/>
+    <file name="twitter.png" crc="44195002" ref="about-me"/>
+    <file name="u225-4.png" crc="4084865429" ref="about-me"/>
+    <file name="xchy58v(2).jpg" crc="4017342709" ref="about-me:art-portfolio:resume"/>
+    <file name="1527639_234477190094016_1639139077_n.jpg" crc="180895697" ref="about-me"/>
+    <file name="u1327-sprite.png" crc="17468608" ref="about-me"/>
+    <file name="triforce heroes nintendo power.jpg" crc="118782186" ref="art-portfolio"/>
+    <file name="blank.gif" crc="4208392903" ref="art-portfolio"/>
+    <file name="xenoblade nintendo power.jpg" crc="4279826233" ref="art-portfolio"/>
+    <file name="ccadqywusaihv4t.jpg" crc="4269117430" ref="art-portfolio"/>
+    <file name="1500x500.png" crc="53261354" ref="art-portfolio"/>
+    <file name="d2xi8pf.jpg" crc="3893998744" ref="art-portfolio"/>
+    <file name="divecomp.jpg" crc="4022000784" ref="art-portfolio"/>
+    <file name="nuel.png" crc="123250458" ref="art-portfolio"/>
+    <file name="the-power-of-positive-presence.jpg" crc="68382687" ref="art-portfolio"/>
+    <file name="triforce heroes nintendo power-crop-u980.jpg" crc="4139684233" ref="art-portfolio"/>
+    <file name="xenoblade nintendo power-crop-u1015.jpg" crc="3766324117" ref="art-portfolio"/>
+    <file name="ccadqywusaihv4t-crop-u1029.jpg" crc="274731587" ref="art-portfolio"/>
+    <file name="1500x500-crop-u1116.png" crc="3879940715" ref="art-portfolio"/>
+    <file name="d2xi8pf-crop-u1125.jpg" crc="4092666694" ref="art-portfolio"/>
+    <file name="divecomp130x73.jpg" crc="103741049" ref="art-portfolio"/>
+    <file name="nuel130x73.png" crc="3791981876" ref="art-portfolio"/>
+    <file name="the-power-of-positive-presence130x73.jpg" crc="139557870" ref="art-portfolio"/>
+    <file name="loading.gif" crc="3815509949" ref="art-portfolio"/>
   </folder>
-  <file name="index.html" crc="308737739" mt="1438653532596" redirect="true"/>
-  <file name="character-select.html" crc="4228314189" mt="1438651953828" redirect="true"/>
-  <file name="portfolio.html" crc="416769897" mt="1438653633333" redirect="true"/>
+  <file name="index.html" crc="308737739" mt="1439294268667" redirect="true"/>
+  <file name="character-select.html" crc="3984476913" mt="1439300816258" redirect="true"/>
+  <file name="about-me.html" crc="4292792837" mt="1439303571721" redirect="true"/>
+  <file name="art-portfolio.html" crc="3838728601" mt="1439303591619" redirect="true"/>
+  <file name="resume.html" crc="4147442742" mt="1439303584158" redirect="true"/>
 </manifest>
