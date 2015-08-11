@@ -1,13 +1,14 @@
-<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1439304952123">
+<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1439318938565">
   <folder name="css">
     <file name="site_global.css" crc="426517801"/>
     <file name="index.css" crc="4136943797" ref="index"/>
     <file name="about-me.css" crc="113267630" ref="about-me"/>
     <file name="iefonts_about-me.css" crc="4151375563" ref="about-me"/>
-    <file name="art-portfolio.css" crc="4184399122" ref="art-portfolio"/>
+    <file name="art-portfolio.css" crc="57599267" ref="art-portfolio"/>
     <file name="iefonts_art-portfolio.css" crc="4119056697" ref="art-portfolio"/>
     <file name="character-select.css" crc="4006983330" ref="character-select"/>
-    <file name="resume.css" crc="3973941912" ref="resume"/>
+    <file name="resume.css" crc="55810306" ref="resume"/>
+    <file name="iefonts_resume.css" crc="4015659198" ref="resume"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4021225061" ref="index:character-select:about-me:art-portfolio:resume"/>
@@ -60,10 +61,14 @@
     <file name="nuel130x73.png" crc="3791981876" ref="art-portfolio"/>
     <file name="the-power-of-positive-presence130x73.jpg" crc="139557870" ref="art-portfolio"/>
     <file name="loading.gif" crc="3815509949" ref="art-portfolio"/>
+    <file name="millenium-vs-fnatic.jpg" crc="4079729666" ref="art-portfolio"/>
+    <file name="untitled-1.jpg" crc="4235944913" ref="art-portfolio"/>
+    <file name="millenium-vs-fnatic130x73.jpg" crc="4276577998" ref="art-portfolio"/>
+    <file name="untitled-1111x88.jpg" crc="104372110" ref="art-portfolio"/>
   </folder>
   <file name="index.html" crc="308737739" mt="1439294268667" redirect="true"/>
   <file name="character-select.html" crc="3984476913" mt="1439300816258" redirect="true"/>
-  <file name="about-me.html" crc="4292792837" mt="1439303571721" redirect="true"/>
-  <file name="art-portfolio.html" crc="3838728601" mt="1439303591619" redirect="true"/>
-  <file name="resume.html" crc="4147442742" mt="1439303584158" redirect="true"/>
+  <file name="about-me.html" crc="261132032" mt="1439316449215" redirect="true"/>
+  <file name="art-portfolio.html" crc="485705086" mt="1439318858774" redirect="true"/>
+  <file name="resume.html" crc="8344246" mt="1439317429881" redirect="true"/>
 </manifest>

@@ -1,7 +1,7 @@
 .version.resume /* version checker */
 {
-	color: #0000EC;
-	background-color: #DD8A98;
+	color: #000003;
+	background-color: #539902;
 }
 
 .html
@@ -14,14 +14,20 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 111px;
+	min-height: 424.75px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 389px;
+	padding-top: 13px;
+	padding-bottom: 62.25px;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+#pu1335
+{
+	width: 0.01px;
 }
 
 #u1335
@@ -31,7 +37,6 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 13px;
 }
 
 #u1335_img
@@ -52,7 +57,7 @@
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 50px;
+	margin-top: 37px;
 	left: 117px;
 }
 
@@ -65,7 +70,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 62px;
+	margin-top: 49px;
 	left: 449px;
 }
 
@@ -216,6 +221,92 @@
 .MenuItem /* unifiedNavBar */
 {
 	cursor: pointer;
+}
+
+#u1395-17
+{
+	z-index: 27;
+	width: 960px;
+	min-height: 361px;
+	background-color: transparent;
+	margin-top: 22px;
+	position: relative;
+}
+
+#u1395-4
+{
+	font-size: 18px;
+	line-height: 22px;
+	color: #C8C8C8;
+	font-family: droid-sans, sans-serif;
+	font-weight: 400;
+}
+
+#u1395-6
+{
+	font-size: 60px;
+	color: #FFFFFF;
+	font-family: droid-sans, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u1395-2,#u1395-7,#u1395-9
+{
+	font-size: 60px;
+	line-height: 72px;
+	color: #FFFFFF;
+	font-family: droid-sans, sans-serif;
+	font-weight: 700;
+}
+
+#u1395-8
+{
+	font-size: 60px;
+	font-family: droid-sans, sans-serif;
+	font-weight: 700;
+}
+
+#u1395-11
+{
+	font-size: 60px;
+	color: #FFFFFF;
+	font-family: droid-sans, sans-serif;
+	font-weight: 700;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u1395-13
+{
+	font-size: 60px;
+	color: #2090D8;
+	font-family: droid-sans, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u1395-5,#u1395-10,#u1395-12
+{
+	font-size: 18px;
+	line-height: 22px;
+}
+
+#u1395-15
+{
+	font-size: 60px;
+	color: #C8C8C8;
+	font-family: droid-sans, sans-serif;
+	font-weight: 700;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u1395-14
+{
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 22px;
 }
 
 body
